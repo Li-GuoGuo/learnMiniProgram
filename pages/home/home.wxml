@@ -1,3 +1,4 @@
 <!--pages/home/home.wxml-->
 <text>pages/home/home.wxml</text>
 <button size="mini">ss</button>
+<view>知识点二测试Tag</view>
